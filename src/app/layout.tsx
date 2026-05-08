@@ -17,6 +17,11 @@ export const metadata: Metadata = {
     "instrumentação industrial",
   ],
   authors: [{ name: "Skid Power" }],
+  icons: {
+    icon: "/images/marcadagua.png",
+    shortcut: "/images/marcadagua.png",
+    apple: "/images/marcadagua.png",
+  },
   openGraph: {
     title: "Skid Power | Conexões, Válvulas e Tubings no Brasil",
     description:
