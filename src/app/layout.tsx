@@ -5,7 +5,7 @@ import { CartProvider } from "@/components/cart/CartProvider";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Skid Power | União Macho dupla anilha — S68",
+  title: "Skid Power | Conexões, Válvulas e Tubings no Brasil",
   description:
     "Conexões industriais Skid Power em aço inox AISI 316L com acabamento premium, usinagem precisa e identificação gravada a laser.",
   keywords: [
@@ -18,9 +18,9 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Skid Power" }],
   openGraph: {
-    title: "Skid Power | União Macho dupla anilha — S68",
+    title: "Skid Power | Conexões, Válvulas e Tubings no Brasil",
     description:
-      "Visualize a conexão em desenho técnico e foto realista no slider interativo.",
+      "A Skid Power desenvolve conexões, válvulas e tubings no Brasil, em parceria com a Inpro-Seal para levar tecnologia de selagem a equipamentos rotativos.",
     type: "website",
     locale: "pt_BR",
   },
